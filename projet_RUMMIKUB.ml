@@ -1,5 +1,4 @@
 (*POJET – LE JEU DU RUMMIKUB*)
-(*IMA 4--XU SICONG--MACHMACHI NOUR*)
 (*Q1 : Implémenter les fonctions spécifiées dans la section 3.1*)
 type nat = int ;; (* nat >0 *)
 type 'a multielement = 'a * nat ;;
